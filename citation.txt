@@ -1,0 +1,7 @@
+@inproceedings{REPO-009,
+    author = "Yang, Jie and Puri, Satish",
+    booktitle = "2020 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+    pages = "810--820",
+    title = "{Efficient Parallel and Adaptive Partitioning for Load-balancing in Spatial Join}",
+    year = "2020"
+}
